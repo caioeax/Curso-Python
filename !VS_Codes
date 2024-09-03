@@ -1,0 +1,21 @@
+Ctrl K + Ctrl S -- Todos os shortcuts
+
+Ctrl F -- Encontrar palavra
+Ctrl X -- Apagar linha
+Ctrl C -- Copiar linha
+Ctrl V -- Colar linha
+Ctrl Home -- Começo do arquivo
+Ctrl End -- Final do Arquivo
+Ctrl Up/Down Arrow -- Linha por linha
+Ctrl N -- Novo arquivo
+Ctrl O -- Abrir arquivo
+Ctrl S -- Salvar 
+Ctrl H -- Trocar palavra
+F3 -- Achar próxima palavra igual
+Ctrl D -- Selecionar proxima palavra igual
+(Alt Enter -- Selecionar todas palavras iguais)
+Ctrl F4 -- Fecha o que tiver aberto
+Ctrl ' -- Abrir terminal
+Ctrl Shift ' -- Abrir novo terminal
+Ctrl K Z -- Zen Mode
+F8 -- vai pro próximo erro.
