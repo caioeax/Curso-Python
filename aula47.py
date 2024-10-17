@@ -21,9 +21,7 @@ letrasChutadas = ''
 tentativas = 0
 
 while True:
-    if tentativas == 0:
-        print()
-        print('Dica: Famoso')
+
 
     letraDigitada = input('Escreva uma letra: ')
 
@@ -38,14 +36,6 @@ while True:
     letrasChutadas += letraDigitada
 
     tentativas += 1
-
-    if tentativas == 5:
-        print()
-        print('Faz musica!')
-
-    if tentativas == 10:
-        print()
-        print('Voce conhece!')
     
     if letraDigitada in palavraSecreta:
         letraAcertada += letraDigitada
